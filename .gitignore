@@ -5,8 +5,8 @@ pip-selfcheck.json
 pyvenv.cfg
 .ipynb_checkpoints
 share
-*.pyc
+<<<<<<< HEAD
 __pycache__
-
+*.pyc
 # emacs
 *~
